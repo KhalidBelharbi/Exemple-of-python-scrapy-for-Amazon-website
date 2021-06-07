@@ -1,0 +1,4 @@
+
+inside the directory : spiders/ , run this commande (spiders is the nid of your spider, you can change it in the code)
+
+scrapy crawl spiders -o data.csv
